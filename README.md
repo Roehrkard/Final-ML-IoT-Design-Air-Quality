@@ -1,4 +1,5 @@
 # Final-ML-IoT-Design-Air-Quality
+The purpose of this repo is to demonstrate a comprehensive data pipeline for an IoT sensorered Air Quality dataset through a jupyter notebook, tableau dashboard and report.
 
 ## Google Colab Link
 https://colab.research.google.com/github/Roehrkard/Final-ML-IoT-Design-Air-Quality/blob/main/.ipynb_checkpoints/Machine_Learning_IoT_Application_Design_and_Implementation_Air_Quality_Analysis-checkpoint.ipynb
@@ -23,3 +24,6 @@ This dashboard provides an analytical summary of air quality based on the UCI Ai
 - If spatial data is included, the visuals could reveal pollution disparities across different areas, supporting urban planning and policy-making efforts.
 5. Anomalies and Outliers in Air Quality Data
 - Box plots and distribution charts help identify extreme pollution events and outliers, which may result from sudden industrial emissions or unusual meteorological conditions.
+
+### Dataset 
+https://archive.ics.uci.edu/dataset/360/air+quality
